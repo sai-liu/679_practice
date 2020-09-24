@@ -19,6 +19,13 @@ This is a multi-assignment homework: 1.1, 1.2, 1.3
  
 - The input files are also in folder "log" and "out". They are the  files with names like "timetesty_snaq.log" and "timetesty_snaq.out" 
 
+## homework 1.2 solution
 
+- The file which is called "summarizeSNaQres.sh" in the "scripts" folder can be run in the directory "hw1-sai-liu/scripts" under Mac platform. You can run this file with command:
+```
+  Bash summarizeSNaQres.sh
+```
 
-test
+- The output file is "Summary.csv" in the directory "hw1-sai-liu/output".
+
+- The input files are located in folder "log" and "out". The script will produce a summary of the results from all these analysis. 
